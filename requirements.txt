@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+scikit-learn
+statsmodel
+math
+pickle
+
+project1_func
